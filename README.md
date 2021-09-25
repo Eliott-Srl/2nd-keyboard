@@ -1,9 +1,8 @@
 # 2nd-keyboard
 All my scripts related to multiple keyboards. Inspired by https://github.com/TaranVH
 
-<h1 align="center">Hi 👋, I'm $heldon</h1>
-<h3 align="center">I am a French backend developer and learning the fontend</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-bzcn&label=Profile%20views&color=0e75b6&style=flat" alt="marius-bzcn" /> </p>
+<h1 align="center">Hi 👋, I'm Eliott</h1>
+<h3 align="center">I am a ✨french✨ developer, video and photo editor</h3>
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
