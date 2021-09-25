@@ -1,2 +1,2 @@
 # 2nd-keyboard
-All my scripts about keybaord https://github.com/TaranVH
+All my scripts related to multiple keyboards. Inspired by https://github.com/TaranVH
