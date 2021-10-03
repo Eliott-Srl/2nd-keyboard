@@ -1,0 +1,109 @@
+à rajouter :
+	échelle 100
+	zoom 100-120
+	zoom 100-150
+	zoom 120-150
+	dezoom 150-120
+	dezoom 150-100
+	dezoom 120-100
+	ctrl + shift + z
+	windows + ; (emoji dans toutes les applications)
+
+avant première ligne : y a r en vrai :
+space : joue ou arrête la preview
+
+première ligne : fonctions :
+< : 
+w : delete a single clip under the cursor
+x : 
+c : 
+v : 
+b : 
+n : 
+, : 
+; : 
+: :
+! :
+
+deuxième ligne : fonctions/effets :
+q : lock the 5th line -> music line
+s : save the project
+d : reverse the clip
+f : create a text with the preset "text default"
+g : just do a contol z -> undo
+h : sélectionne les clips après le curseur
+j : sélectionne les clips avant le curseur
+k : arrête la vidéo et met un arrêt sur image
+l : create a text with the preset "subtitles"
+m : met le texte + le ding + la fléche
+ù : 
+* : 
+enter : lance la lecture depuis le début
+
+troisième ligne : effets :
+a : flip to the left
+z : zoom 120
+e : zoom 150
+r : flip to the right
+t : pop in
+y : pop out
+u : volume -999
+i : 
+o : 
+p : 
+$ : 
+
+quatrième ligne : sound fx :
+² : 
+& : 
+é : 
+" : 
+' : 
+( : 
+- : 
+è : 
+_ : 
+ç : 
+à : 
+) : 
+= : 
+backspace : delete the clip under the playhead
+
+cinquième ligne : les F queque chose :
+F1 : 
+F2 : 
+F3 : 
+F4 : 
+F5 : 
+F6 : 
+F7 : 
+F8 : 
+F9 : 
+F10 : 
+F11 : nombre par default plus taille par defaut (les pistes)
+F12 : outro ( temporaire )
+
+sur le côté :
+delete : 
+end : put off the audio/video 1
+pagedown : put off the audio/video 2
+insert : don't put anything
+home : put off the audio/video 3
+pageup : put off the audio/video 4
+
+clavier numerique : 
+0 : libellé vert
+1 : libellé iris
+2 : libellé violet
+3 : libellé bleu-vert
+4 : libellé lavande
+5 : libellé céruléen
+6 : libellé jaune
+7 : libellé rose
+8 : libellé mangue
+9 : libellé marron
+/ : /
+* : *
+- : -
++ : +
+. : .
